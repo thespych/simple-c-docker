@@ -12,4 +12,4 @@ if [[ $1 = --pull ]] || ! docker image inspect "$image" &>/dev/null; then
     docker pull "$image"
 fi
 
-exec docker run -it --rm -v "$workdir:/home/student/workdir" "$image"
+exec docker run -it --rm -v "$workdir:/home/user/workspace" "$image"
