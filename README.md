@@ -14,4 +14,4 @@ simply run one of the files to build the image.
 
 - Run `simple-c-linux.sh` for Linux
 - Run `simple-c-macos.sh` for MacOS
-- Run `simple-c-windows.sh` for Windows 
+- Run `simple-c-windows.bat` for Windows 
