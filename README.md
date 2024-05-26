@@ -5,6 +5,7 @@ A very simple image for writing basic C and C++ code. For anyone without Ubuntu 
 - GDB
 - Valgrind
 - Vim
+- pkg-config
 - Less (Terminal Pager)
 - Tmux
 - Man
